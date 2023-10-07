@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Forkify_Recipe-Web](https://github.com/Rashid004/Forkify-Recipe-web)
 
-- 🌱 I’m currently learning **JavaScript🧑‍💻**
+- 🌱 I’m currently learning **React.js🧑‍💻**
 
-- 📫 How to reach me **rashuu169@gmail.com**
+- 📫 How to reach me **rashidansari3868038@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
