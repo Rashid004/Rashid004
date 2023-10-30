@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ansari Rashid</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Forkify_Recipe-Web](https://github.com/Rashid004/Forkify-Recipe-web)
+- 🔭 I’m currently working on React Project.!!
 
 - 🌱 I’m currently learning **React.js🧑‍💻**
 
