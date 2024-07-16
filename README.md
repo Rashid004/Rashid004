@@ -12,12 +12,13 @@ Hello, I'm Ansari Rashid, a frontend developer currently in my third year of stu
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rashid004&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashid004&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rashid004&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+-->
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Rashid004&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
