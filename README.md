@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Ansari Rashid — a Full Stack Developer from Mumbai 🌃</h1>
+<h2 align="left">Hi 👋, I'm Ansari Rashid — a Full Stack Developer from Mumbai 🌃</h2>
 
 ###
 
