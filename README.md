@@ -64,7 +64,7 @@ Have an idea or need a developer? Let’s connect!
 
 ### 🐍 GitHub Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/YourUsername/YourUsername/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Rashid004/Rashid004/output/snake.svg)
 
 ---
 
