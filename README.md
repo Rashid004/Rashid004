@@ -1,17 +1,15 @@
-<h2 align="left">Hi 👋, I'm Ansari Rashid — a Full Stack Developer from Mumbai 🌃</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rashid004&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rashid004&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top languages" />
-</div>
-
-###
+<h1 align="left">Hi 👋, I'm Ansari Rashid — a Full Stack Developer from Mumbai 🌃</h1>
 
 <img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Crazy programmer gif" />
 
-###
+
+### 👨‍💻 About Me
+
+I'm a self-taught **Full Stack Developer** passionate about crafting user-friendly and scalable web applications. I work mostly with **React**, **Next.js**, **Node.js**, and **Firebase** to bring ideas to life.
+
+I enjoy building clean UIs, solving real-world problems with code, and collaborating on creative tech projects.
+
+---
 
 ### 🛠 Tech Stack
 
@@ -35,9 +33,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm" />
 </div>
 
-###
+---
 
-### 📫 Connect with Me
+### 📫 Contact Me
 
 <div align="left">
   <a href="mailto:rashidansari3868038@gmail.com" target="_blank">
@@ -51,7 +49,18 @@
   </a>
 </div>
 
-###
+---
+
+### 🤝 Let's Collaborate
+
+I'm open to exciting opportunities — whether it's building a product, collaborating on open source, or freelance projects.
+
+Have an idea or need a developer? Let’s connect!
+
+📬 Email: **rashidansari3868038@gmail.com**  
+💼 LinkedIn: [Ansari Rashid](https://www.linkedin.com/in/ansarirashid089)
+
+---
 
 ### 🐍 GitHub Contribution Snake
 
@@ -59,3 +68,11 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rashid004&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rashid004&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top languages" />
+</div>
+
+---
