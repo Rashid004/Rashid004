@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Ansari Rashid — a Full Stack Developer from Mumbai 🌃</h1>
+<h1 align="left">Hi 👋, I'm Ansari Rashid — a Full Stack Developer...</h1>
 
 <img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Crazy programmer gif" />
 
