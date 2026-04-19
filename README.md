@@ -45,7 +45,7 @@ Hey there! I'm **Ansari Rashid** — a self-taught **Full Stack Developer** pass
 
 ### ⚙️ Backend & Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,firebase,mongodb,postgresql,redis" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,firebase,mongodb,postgresql,redis,socketio" />
 </p>
 
 ### 🐳 DevOps & CI/CD
