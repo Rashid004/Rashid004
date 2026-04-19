@@ -1,102 +1,106 @@
-<h1 align="left">Hi 👋, I'm Ansari Rashid — a Full Stack Developer...</h1>
+<div align="center">
 
-<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Crazy programmer gif" />
+```
+██████╗  █████╗ ███████╗██╗  ██╗██╗██████╗
+██╔══██╗██╔══██╗██╔════╝██║  ██║██║██╔══██╗
+██████╔╝███████║███████╗███████║██║██║  ██║
+██╔══██╗██╔══██║╚════██║██╔══██║██║██║  ██║
+██║  ██║██║  ██║███████║██║  ██║██║██████╔╝
+╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝╚═════╝
+```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+Firebase;Building+Scalable+%26+Beautiful+Web+Apps" alt="Typing SVG" />
 
+<br/>
 
-### 👨‍💻 About Me
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rashidansari3868038@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansarirashid089)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Rashid_DevFX)
+[![Profile Views](https://komarev.com/ghpvc/?username=Rashid004&style=for-the-badge&color=00D9FF)](https://github.com/Rashid004)
 
-I'm a self-taught **Full Stack Developer** passionate about crafting user-friendly and scalable web applications. I work mostly with **React**, **Next.js**, **Node.js**, and **Firebase** to bring ideas to life.
-
-I enjoy building clean UIs, solving real-world problems with code, and collaborating on creative tech projects.
-
----
-
-### 🛠 Tech Stack
-
-<div
-  align="left"
-  style="
-    display: flex;
-    flex-wrap: wrap;
-    gap: 14px;
-  "
->
-  <!-- Frontend Core -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-
-  <!-- Styling -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-
-  <!-- Frontend Framework -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-
-  <!-- Language -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-
-  <!-- Backend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-
-  <!-- Databases -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-
-  <!-- Cache -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-
-  <!-- Tools -->
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-
-  <!-- OS -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</div>
-
-
----
-
-### 📫 Contact Me
-
-<div align="left">
-  <a href="mailto:rashidansari3868038@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/ansarirashid089" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/Rashid_DevFX" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitter/X" />
-  </a>
 </div>
 
 ---
 
-### 🐍 GitHub Contribution Snake
+## 👨‍💻 About Me
 
-![Snake animation](https://raw.githubusercontent.com/Rashid004/Rashid004/output/snake.svg)
+<img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Crazy programmer gif" />
+
+Hey there! I'm **Ansari Rashid** — a self-taught **Full Stack Developer** passionate about crafting user-friendly and scalable web applications. 🚀
+
+- 🔭 I work mostly with **React**, **Next.js**, **Node.js**, **MongoDB**, **Express.js**, and **Firebase**
+- 🌱 Currently exploring **DevOps**, **Docker**, and **CI/CD pipelines**
+- 💡 I enjoy building clean UIs & solving real-world problems with code
+- 🤝 Open to exciting opportunities — freelance, open source, or full-time!
+- 📍 Based in **India**
+- 📬 Reach me at **rashidansari3868038@gmail.com**
 
 ---
 
-### 🤝 Let's Collaborate
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,sass,tailwind,bootstrap" />
+</p>
+
+### ⚙️ Backend & Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,python,firebase,mongodb,postgresql,redis" />
+</p>
+
+### 🐳 DevOps & CI/CD
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,git,github,aws" />
+</p>
+
+### 🧰 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,vercel,netlify" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rashid004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashid004&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF" />
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rashid004&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
+</div>
+
+---
+
+<!-- ## 🐍 GitHub Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Rashid004/Rashid004/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+-->
+
+## 🤝 Let's Collaborate!
+
+<div align="center">
+
+> 💬 *"Clean code, bold ideas, and real solutions — that's my craft."*
 
 I'm open to exciting opportunities — whether it's building a product, collaborating on open source, or freelance projects.
 
-Have an idea or need a developer? Let’s connect!
+**Have an idea or need a developer? Let's connect!**
 
-📬 Email: **rashidansari3868038@gmail.com**  
-💼 LinkedIn: [Ansari Rashid](https://www.linkedin.com/in/ansarirashid089)
+[![Gmail](https://img.shields.io/badge/📬_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rashidansari3868038@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansarirashid089)
 
-<!-- 
-### 📊 GitHub Stats
-
-<div align="start">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rashid004&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rashid004&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top languages" />
 </div>
-  -->
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
+</div>
