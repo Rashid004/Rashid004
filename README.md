@@ -40,17 +40,17 @@ Hey there! I'm **Ansari Rashid** — a self-taught **Full Stack Developer** pass
 
 ### 🎨 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,sass,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,sass,tailwind,bootstrap,styledcomponents" />
 </p>
 
 ### ⚙️ Backend & Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,firebase,mongodb,postgresql,redis,socketio" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,firebase,supabase,mongodb,postgresql,redis,prisma" />
 </p>
 
 ### 🐳 DevOps & CI/CD
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,git,github,aws" />
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,ubuntu,git,github,aws" />
 </p>
 
 ### 🧰 Tools & Platforms
