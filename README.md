@@ -41,11 +41,14 @@ Hey there! I'm **Ansari Rashid** — a self-taught **Full Stack Developer** pass
 ### 🎨 Frontend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,sass,tailwind,bootstrap,styledcomponents" />
+  <img width="48" height="48" borderRadius="50px alt="image" src="https://github.com/user-attachments/assets/dad84e21-8c78-459c-82f0-bb6669b10c39" />
+
 </p>
 
 ### ⚙️ Backend & Database
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,python,firebase,supabase,mongodb,postgresql,redis,prisma,express" />
+  
 </p>
 
 ### 🐳 DevOps & CI/CD
@@ -61,13 +64,6 @@ Hey there! I'm **Ansari Rashid** — a self-taught **Full Stack Developer** pass
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rashid004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashid004&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF" />
-
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rashid004&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
