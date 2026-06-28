@@ -80,6 +80,8 @@ Hey there! I'm **Ansari Rashid** — a self-taught **Full Stack Developer** pass
 ---
 -->
 
+<!-- ## Rashid -->
+
 ## 🤝 Let's Collaborate!
 
 <div align="center">
