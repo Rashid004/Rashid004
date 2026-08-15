@@ -35,7 +35,6 @@ Hey there! I'm **Ansari Rashid** — a self-taught **Full Stack Developer** pass
 - 📬 Reach me at **rashidansari3868038@gmail.com**
 
 ---
-
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend
